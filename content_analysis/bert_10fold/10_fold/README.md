@@ -1,5 +1,5 @@
 # Confusion matrix
 
-![](test.png)
+!<img src="test.png" width="75%"> 
 
-![](test_nor.png)
+!<img src="test_nor.png" width="75%">
