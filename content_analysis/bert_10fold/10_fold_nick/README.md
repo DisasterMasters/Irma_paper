@@ -1,5 +1,5 @@
 # Confusion matrix
 
-![](test.png)
-
-![](test_nor.png)
+| non normalized | normalized |
+|:------:|:------:|
+| <img src="test.png"> | <img src="test_nor.png"> |
