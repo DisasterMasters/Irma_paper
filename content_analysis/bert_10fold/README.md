@@ -31,12 +31,6 @@
 </details>
 
 <details>
-<summary>10_fold_time_period</summary>
-<img src="10_fold_time_period/test.png" width=50%>
-<img src="10_fold_time_period/test_nor.png" width=50%>
-</details>
-
-<details>
 <summary>10_fold_time_periodV2</summary>
 <img src="10_fold_time_periodV2/test.png" width=50%>
 <img src="10_fold_time_periodV2/test_nor.png" width=50%>
