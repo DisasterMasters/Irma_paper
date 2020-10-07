@@ -43,7 +43,13 @@
 </details>
 
 <details>
-<summary>10_fold_C2_time_periodV3</summary>
+<summary>10_fold_C1_final</summary>
+<img src="10_fold_C1_final/test.png" width=50%>
+<img src="10_fold_C1_final/test_nor.png" width=50%>
+</details>
+
+<details>
+<summary>10_fold_C2_final</summary>
 <img src="10_fold_C2_final/test.png" width=50%>
 <img src="10_fold_C2_final/test_nor.png" width=50%>
 </details>
