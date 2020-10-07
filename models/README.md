@@ -1,4 +1,4 @@
-# nn module
+# nn module (NOTE: Run on Tensorflow 1.14. )
 - keras_model
     - Feedforward Neural Network (FFNN)
     - Convolutional Neural Networks (CNN)
